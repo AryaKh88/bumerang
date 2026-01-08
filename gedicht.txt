@@ -5,5 +5,8 @@ War einmal ein Bumerang:
 war ein wenig zu lang
 Bumerang flog ein Stück,
 Aber kam nicht mehr zurück.
+<<<<<<< HEAD
 Publikum — noch stundenlang —
 Wartete auf Bumerang.
+=======
+>>>>>>> 266c1762cf82cb8d30f13495ddc848cfe5cc4370
